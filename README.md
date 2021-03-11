@@ -20,7 +20,7 @@ I) MultiNLI Dataset : See the train_data.csv and val_data.csv
 II) Bool Q Dataset : Common Across all submissions (included in EntailmentEnsemble.ipynb)
 
 Instruction Set:
-I) Clone the repo on a local machine
+I) Clone the repo on a local machine\
 II) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook EntailmentEnsemble.ipynb\
 III) Load the files train_data.csv and val_data.csv\
 IV) Run each cell one by one.\
