@@ -4,7 +4,7 @@
 
 ### For BoolQ.ipynb
 
-1) Clone this repo on a local machine\
+1) Clone this repo on a local machine
 2) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook BoolQ.ipynb
 3) Upload the dataset files on colab
 4) Run each cell one by one.
@@ -19,7 +19,7 @@ Data Set Required:
 1) MultiNLI Dataset : See the train_data.csv and val_data.csv
 2) Bool Q Dataset : Common Across all submissions (included in EntailmentEnsemble.ipynb)
 
-Instruction Set:\
+Instruction Set:
 1) Clone the repo on a local machine
 2) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook EntailmentEnsemble.ipynb
 3) Load the files train_data.csv and val_data.csv
