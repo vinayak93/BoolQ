@@ -22,9 +22,9 @@ II) Bool Q Dataset : Common Across all submissions (included in EntailmentEnsemb
 Instruction Set:
 I) Clone the repo on a local machine
 II) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook EntailmentEnsemble.ipynb\
-III) Load the files train_data.csv and val_data.csv
-IV) Run each cell one by one.
-V) Across the notebook Graphs are plotted and results are printed.
+III) Load the files train_data.csv and val_data.csv\
+IV) Run each cell one by one.\
+V) Across the notebook Graphs are plotted and results are printed.\
 
 
 
