@@ -4,7 +4,7 @@
 
 ### For BoolQ.ipynb
 
-I) Clone this repo on a local machine
+I) Clone this repo on a local machine\
 II) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook BoolQ.ipynb\
 III) Upload the dataset files on colab\
 IV) Run each cell one by one.\
