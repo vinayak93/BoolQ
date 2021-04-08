@@ -24,7 +24,7 @@ To run the models follow the below instructions:
 4) Run each cell one by one.
 5) At the last cell(Testing) enter a choice of model or select all models to perform the BoolQ task. You'll be asked to enter a few different hyperparamters, if not sure, enter the values given as examples in the prompt.
 
-### Method1: Custom_neural_model_approach.ipynb
+### Method2: Custom_neural_model_approach.ipynb
 
 This method uses 4 different models and their performance is compared on the BoolQ task.
 
