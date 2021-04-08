@@ -22,7 +22,7 @@ To run the models follow the below instructions:
 NOTE: The results are printed out on the screen during training and evaluation along with plots of the training loss and accuracy.
 The accuracy and F1-score for a given model is also written to a file named as resultsMODEL_NAME.txt (e.g. resultsBERT.txt).
 
-### Methjod2: EntailmentEnsemble.ipynb
+### Method2: EntailmentEnsemble.ipynb
 
 Data Set Required:
 1) MultiNLI Dataset : See the train_data.csv and val_data.csv
