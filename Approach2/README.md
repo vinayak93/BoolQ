@@ -24,6 +24,17 @@ To run the models follow the below instructions:
 4) Run each cell one by one.
 5) At the last cell(Testing) enter a choice of model or select all models to perform the BoolQ task. You'll be asked to enter a few different hyperparamters, if not sure, enter the values given as examples in the prompt.
 
+### Method1: Custom_neural_model_approach.ipynb
+
+This method uses 4 different models and their performance is compared on the BoolQ task.
+
+To run the models follow the below instructions:
+
+1) Clone this repo on a local machine
+2) Go to Google Colab https://colab.research.google.com/notebooks/intro.ipynb#recent=true and upload the notebook ./Approach2/BoolQ.ipynb
+3) Run each cell one by one.
+
+
 NOTE: The results are printed out on the screen during training and evaluation along with plots of the training loss and accuracy.
 The accuracy and F1-score for a given model is also written to a file named as resultsMODEL_NAME.txt (e.g. resultsBERT.txt).
 
