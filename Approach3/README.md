@@ -25,7 +25,7 @@ If you plan to run this work, please follow the instruction below:
 4) Run each cell one by one.
 5) At the last cell(Testing) enter a choice of model or select all models to perform the BoolQ task. You'll be asked to enter a few different hyperparamters, if not sure, enter the values given as examples in the prompt.
 6) The last cell also gives an option to load saved models for evaluation. The models can be downloaded from the link below: 
-https://unh.box.com/s/jhxuhcq1vo96h54vbujytkadi8cvd92q
+https://unh.box.com/v/augDhawalSavedModels
 7) Once downloaded, unzip the models to ./models/augDhawal directory.
 
 
