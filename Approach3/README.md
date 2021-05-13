@@ -32,7 +32,7 @@ If you plan to run the techniques by Bhavya use the following instructions:\
 3) Upload the dataset files from the ./Approach3/Augmented_data_Bhavya on Colab.\
 4) Run each cell one by one.\
 5) As there are no saved models for Bhavya's techniques...please use the option Fine-tune and Evaluate.\
-7) At the last cell(Testing) enter a choice of model or select all models to perform the BoolQ task. You'll be asked to enter a few different hyperparamters, if not sure, enter the values given as examples in the prompt.
+6) At the last cell(Testing) enter a choice of model or select all models to perform the BoolQ task. You'll be asked to enter a few different hyperparamters, if not sure, enter the values given as examples in the prompt.
 
 
 
