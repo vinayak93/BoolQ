@@ -10,6 +10,10 @@ In this approach we attempt to solve the BoolQ task using pre-trained language m
 
 This approach is an extension to Approach1 wherein, along with the pre-trained models and entailment we try to integrate entity linking to gather some useful information that could help answer the question more accurately.
 
+## Approach3
+
+In this approach we try to integrate entity linking, numerous NLP technqiues and toolkits to extract more information about the context of the passages and questions and augment our dataset with new information as an attempt to improving the performance of the pre-trained language models on the BoolQ task.
+
 
 
 
